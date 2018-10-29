@@ -1,5 +1,7 @@
 # CV development and deployment guideline 
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/fd24ee6f1fae4927ae7530dbe4578eb3)](https://app.codacy.com/app/seawaywen/cv?utm_source=github.com&utm_medium=referral&utm_content=memodir/cv&utm_campaign=Badge_Grade_Settings)
+
 
 ## Dev on Mac OSX
 #### 1. pre-install packages
